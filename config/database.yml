@@ -1,0 +1,23 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: kairos_development
+  username: root
+  password: 
+  socket: /tmp/mysql.sock  
+
+test:
+  adapter: mysql2
+  encoding: utf8
+  database: kairos_test
+  username: root
+  password: 
+  socket: /tmp/mysql.sock        
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: kairos_production
+  username: root
+  password: 
+  socket: /tmp/mysql.sock

@@ -1,0 +1,4 @@
+**.swp
+pkg
+.bundle
+Gemfile.lock
